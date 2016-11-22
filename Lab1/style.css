@@ -1,0 +1,38 @@
+.heading{
+
+text-align: center;
+font-size: 36px;
+border-style: double;
+
+}
+#port{
+	text-align: center;
+	font-family: Georgia, sans-serif;
+	font-size: 24px;
+}
+
+}
+.intro{
+	text-indent: 2.0em;
+	font-family: Georgia, sans-serif;
+	text-align: center
+}
+.links{
+	text-align: left;
+	font-size: 18px;
+	font-family: serif, sans-serif;
+	float: bottom
+}
+#projects {
+	text-align: center;
+	border-color: #FF0000;
+	border-bottom: solid;
+}
+#edu{
+	border-bottom: solid;
+	border-color: #ff0000;
+}
+#contact{
+	border-style: bold;
+	border-color: #000000;
+}
